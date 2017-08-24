@@ -1,0 +1,68 @@
+item.CreatedOn.Value.ToLocalTime()
+bina-arizaişemri relationship ve workflow duzenlenecek.
+
+class CrmResult
+{
+errorExists
+ErrorDescriptiomm
+ListCrmArizaIsEmri
+}
+
+CrmArizaIsEmri
+{
+bildirTarihi (datetime)
+baslangicTarihi
+bitisTarihi
+bildirimSekliCrmInt
+bildirimSekliText
+konuCrmId
+KonuText
+aciklama
+ilceCrmId
+ilceCbsKod
+ilceText
+mahalleCrmId
+mahalleCbsKod
+mahalleText
+csCrmId
+csCbsYolKod
+csText
+binaCrmId
+binaCbsBinaKod
+binaText
+haneText
+lat
+long
+cbsEkipmanKayitId
+cbsekipmanKatmanId
+}
+
+durum= Etkindeğil
+bitisTarihi not null
+key = 369fcd50-632f-4950-abeb-5292928f8762 (hata invalid key)
+
+uc method. GetCrmKapaliArizaIsEmirleri
+bugun
+bu hafta
+bu ay
+
+1 method GetCrmAcikArizaIsEmirleridurum=etkin
+
+
+http://192.168.1.104:5555/AskiTest/main.aspx?etc=10005&extraqs=&histKey=990947057&id=%7b4DA287BE-F287-E711-9411-000C290DD139%7d&newWindow=true&pagetype=entityrecord&sitemappath=MA%7cExtensions%7cnew_il#371292990
+
+kullanıcıkar tabletlerle ilişkilendirilecek(tabletin mac adresi ile kullacı eşleştirilecek)
+ORJINAL KOD DEĞİŞEcEK
+
+Dublicate
+
+
+
+
+batuhan@arkenom.onmicrosoft.com 
+
+
+
+
+
+
